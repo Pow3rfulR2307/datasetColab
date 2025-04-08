@@ -1,0 +1,9 @@
+8
+p \wedge q
+p \vee q
+p \rightarrow q
+p \leftrightarrow q
+\neg p
+p \rightarrow \neg q
+(p \vee q) \wedge r
+(p \wedge (q \vee r)) \rightarrow s
